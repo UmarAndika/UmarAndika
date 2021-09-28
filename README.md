@@ -1,6 +1,15 @@
-### Hi there 👋
+
+<h1 align="center" style="color:black;"> Hello, I'm Umar 👋 <br> <span>I am a Web Developer and UI Designer. </span></h1>
+
+![I am a Web Developer and UI Designer](https://media-exp1.licdn.com/dms/image/C4E16AQFNLSNUBV5MyQ/profile-displaybackgroundimage-shrink_350_1400/0/1632325732140?e=1638403200&v=beta&t=UgN019Fuhj-v3XCuCu9X7NyMMnaXyB4MvrZZM8xLZzM)
+
+<br>
+<br>
 
 
-**UmarAndika/UmarAndika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Thank you for visiting<br>
+  <img src="https://profile-counter.glitch.me/UmarAndika/count.svg" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarAndika)](https://github.com/anuraghazra/github-readme-stats)
+
